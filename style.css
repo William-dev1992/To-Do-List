@@ -1,0 +1,21 @@
+#lista {
+  font-size: 18px;
+  margin: 25px;
+  padding: 0;
+}
+
+li{
+  margin-bottom: 15px;
+  padding: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  margin-right: 5px;
+  padding: 3px;
+  border: 1px solid black;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+}
